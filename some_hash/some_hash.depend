@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1621844240 source:/home/vagagabun/Documents/C projects/some_hash/DB.cpp
+	"DB.h"
+	<sstream>
+	<iterator>
+
+1621842225 /home/vagagabun/Documents/C projects/some_hash/DB.h
+	"Hash.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+
+1621842225 /home/vagagabun/Documents/C projects/some_hash/Hash.h
+	<string>
+	<fstream>
+	<iostream>
+
+1621843297 source:/home/vagagabun/Documents/C projects/some_hash/Hash.cpp
+	"Hash.h"
+	<utility>
+
+1621842225 source:/home/vagagabun/Documents/C projects/some_hash/main.cpp
+	<iostream>
+	<fstream>
+	"DB.h"
+	"Hash.h"
+
